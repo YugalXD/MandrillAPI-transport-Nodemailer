@@ -1,0 +1,38 @@
+{
+  "author": "yugalxd",
+  "bugs": {
+    "url": "https://github.com/YugalXD/MandrillAPI-transport-Nodemailer/issues"
+  },
+  "dependencies": {
+    "email-addresses": "^2.0.1",
+    "extend": "^3.0.0",
+    "mandrill-api": "^1.0.45"
+  },
+  "description": "Mandrill transport for Nodemailer",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2"
+  },
+  "homepage": "https://github.com/YugalXD/MandrillAPI-transport-Nodemailer",
+  "keywords": [
+    "mandrill",
+    "nodemailer",
+    "API"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    "YugalXD <contact@yugalyadav.com>"
+  ],
+  "name": "mandrillapi-transport-nodemailer",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YugalXD/MandrillAPI-transport-Nodemailer.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.1"
+}
